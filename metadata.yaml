@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51788'
     url: http://www.gutenberg.org/2009/agents/51788
     wikipedia: https://hu.wikipedia.org/wiki/Lovik_K%C3%A1roly_(%C3%ADr%C3%B3)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -23,6 +26,8 @@ description: 'Translations of: The remarkable case of Davidson''s eyes; The door
   Plattner story; The beautiful suit; The country of the blind; The lord of the dynamos;
   The treasure in the forest; The temptation of Harringay; The strange orchid; Æpyornis
   Island.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72792#Csodalatos-tortenetek
 gutenberg_issued: '2024-01-24'
 gutenberg_type: Text
 identifiers:
