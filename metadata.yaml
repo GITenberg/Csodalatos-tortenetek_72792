@@ -1,0 +1,50 @@
+_repo: Csodalatos-tortenetek_72792
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lovik, Károly
+    alias: Lovik, Karoly
+    birthdate: 1874
+    deathdate: 1915
+    gutenberg_agent_id: '51788'
+    url: http://www.gutenberg.org/2009/agents/51788
+    wikipedia: https://hu.wikipedia.org/wiki/Lovik_K%C3%A1roly_(%C3%ADr%C3%B3)
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: 'Translations of: The remarkable case of Davidson''s eyes; The door in
+  the wall; The story of the late Mr. Elvesham; The crystal egg; The magic shop; The
+  Plattner story; The beautiful suit; The country of the blind; The lord of the dynamos;
+  The treasure in the forest; The temptation of Harringay; The strange orchid; Æpyornis
+  Island.'
+gutenberg_issued: '2024-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72792'
+language: hu
+pgterms:marc905: 20240118083938wells
+pgterms:marc906: '1927'
+pgterms:marc907: hu
+production_note: Albert László
+publication_note: '  $aBudapest :$bPantheon, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- Fiction'
+- !lcsh 'Science fiction, English -- Translations into Hungarian'
+- !lcsh 'Short stories, English -- Translations into Hungarian'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: '[Davidson szemének figyelemre méltó esete] -- Az ajtó a falban --
+  A néhai Mr. Elvesham története -- A kristálytojás -- A bűvészbolt -- A Plattner-eset
+  -- A gyönyörü öltöny -- A vakok völgye -- A Dinamók Ura -- Az őserdő kincse -- Harringay
+  megkisértése -- A különös orchidea virágzása -- Az őslények szigetén.'
+title: Csodálatos történetek
+url: http://www.gutenberg.org/ebooks/72792
